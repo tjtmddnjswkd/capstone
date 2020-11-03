@@ -430,6 +430,7 @@ print('finish!')
 
 # In[317]:
 
+
 df.shape[0]
 
 
