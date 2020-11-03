@@ -427,7 +427,6 @@ while(True):
     if year==2009:
         break;
 print('finish!')
-    
 
 
 # In[317]:
