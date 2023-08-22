@@ -13,10 +13,10 @@
     - Over-translation
     - Under-translation
 
-|            |Omission   |Addition|MisTranslation|OverTranslation|UnderTranslation|
-|------------|-----------|--------|--------------|---------------|----------------|
-|**Critical**|고유명사생략||긍부정역전|X|X|
-|**Major**   | | | |상위어 대치|하위어 대치|
-|**Minor**   |부사 제거| ||X|X|
-|**Neutral** | | | | | |
-|**Grammer** | | | | | |
+|                    |Critical   |Major   |Minor|Neutral|Grammer|
+|--------------------|-----------|--------|-----|-------|-------|
+|**Omission**        |고유명사생략||부사제거|||
+|**Addition**        | | | | ||
+|**MisTranslation**  |긍부정역전| ||||
+|**OverTranslation** |X|상위어 대치| | | |
+|**UnderTranslation**|X|하위어 대치| | | |
